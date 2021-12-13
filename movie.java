@@ -13,8 +13,8 @@ public class movie {
             if(total_tickets>0)
             {
                 total_tickets=total_tickets-n;
-                System.out.println("Total Tickets Booked"+n);
-                System.out.println("Remaining tickets:"+total_tickets);
+                System.out.println("Total Tickets Booked: "+n);
+                System.out.println("Remaining tickets: "+total_tickets);
                 return 0;
             }
             else{

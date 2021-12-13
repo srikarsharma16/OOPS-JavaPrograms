@@ -10,8 +10,8 @@ public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     while(q!=0)
     {
-        System.out.println("Enter 1.To book in counter1: \n 2.To book in counter2: 3. TO refill Tickets");
-        System.out.println("Enter your choice");
+        System.out.println("Enter 1.To book in counter1: 2.To book in counter2: 3. TO refill Tickets \n");
+        System.out.println("Enter your choice: \n");
         choice= sc.nextInt();
         
 
